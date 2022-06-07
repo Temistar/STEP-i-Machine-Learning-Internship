@@ -1,6 +1,7 @@
 
 Your task is to help John from STA IT services to create a linear regression model in Python or R to predict the CTC/Salary of new hires from the data provided. Here is a snapshot of the case
 
+https://github.com/Temistar/STEP-i-Machine-Learning-Internship/blob/8bff54fa0caa4a3d40872d3631759871690b308c/Task%202/Problem_Statement.PNG
 
 Your task is to
 
